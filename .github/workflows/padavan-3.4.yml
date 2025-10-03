@@ -39,6 +39,7 @@ on:
         - ZTE-E8820S
         - E8820V2
         - B70
+        - JDC-1
       plugins:
         description: 'json format string of include configs'
         required: true
